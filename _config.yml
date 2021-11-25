@@ -38,12 +38,12 @@ title-img: "/assets/img/AKALAKA_handlelifetogether.png"
 
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
-#social-network-links:
-  #email: akalakaco@gmail.com
- # rss: true  # remove this line if you don't want to show an RSS link at the bottom
+social-network-links:
+  email: "akalakaco@gmail.com" 
+  rss: true 
   #facebook: name
   #github: name
-  #twitter: akalakaco
+  twitter: akalakaco 
   #patreon: name
   #youtube: name
 #  medium: yourname
@@ -52,7 +52,7 @@ title-img: "/assets/img/AKALAKA_handlelifetogether.png"
 #  xing: yourname
 #  stackoverflow: "number/name"
 #  snapchat: name
-   #instagram: akalakaco
+   instagram: akalakaco 
 #  spotify: akalaka
 #  telephone:
 #  steam: name
@@ -66,7 +66,7 @@ title-img: "/assets/img/AKALAKA_handlelifetogether.png"
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-#rss-description: Join AKALAKA and Handle life together.
+rss-description: Join AKALAKA and Handle life together.
 
 # --- General options --- #
 
@@ -79,7 +79,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-#url-pretty: "MyWebsite.com"
+url-pretty: "lu.ma/AKALAKA"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
