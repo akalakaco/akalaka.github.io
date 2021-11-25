@@ -6,7 +6,7 @@
 # --- Required options --- #
 
 # Name of website
-title: Taking Care Of
+title: "Taking Care Of | AKALAKA - Handle life together."
 
 # Your name to show in the footer
 author: AKALAKA
@@ -91,7 +91,7 @@ feed_show_excerpt: true
 feed_show_tags: false
 
 # Add a search button to the navbar
-post_search: true
+post_search: false
 
 # The keywords to associate with your website, for SEO purposes
 keywords: "adult siblings of individuals with intellectual and developmental disabilities, AKALAKA, home and community-based services, family caregiving, long-term support"
