@@ -31,7 +31,7 @@ round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-#title-img: "/assets/img/AKALAKA_handlelifetogether.png"
+title-img: "/assets/img/AKALAKA_handlelifetogether.png"
 
 
 # --- Footer social media links --- #
@@ -250,7 +250,4 @@ exclude:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
-
-# Beautiful Jekyll / Dean Attali
-# 2fc73a3a967e97599c9763d05e564189
 
