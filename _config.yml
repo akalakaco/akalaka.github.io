@@ -38,12 +38,12 @@ round-avatar: true
 
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
-social-network-links:
+#social-network-links:
   #email: akalakaco@gmail.com
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
+ # rss: true  # remove this line if you don't want to show an RSS link at the bottom
   #facebook: name
   #github: name
-  twitter: akalakaco
+  #twitter: akalakaco
   #patreon: name
   #youtube: name
 #  medium: yourname
@@ -52,7 +52,7 @@ social-network-links:
 #  xing: yourname
 #  stackoverflow: "number/name"
 #  snapchat: name
-   instagram: akalakaco
+   #instagram: akalakaco
 #  spotify: akalaka
 #  telephone:
 #  steam: name
@@ -66,7 +66,7 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: Join AKALAKA and Handle life together.
+#rss-description: Join AKALAKA and Handle life together.
 
 # --- General options --- #
 
