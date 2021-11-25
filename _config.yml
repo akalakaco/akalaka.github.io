@@ -39,11 +39,11 @@ title-img: "/assets/img/AKALAKA_handlelifetogether.png"
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "akalakaco@gmail.com" 
-  rss: true 
+  email: "akalakaco@gmail.com"
+  rss: true
   #facebook: name
   #github: name
-  twitter: akalakaco 
+  twitter: akalakaco
   #patreon: name
   #youtube: name
 #  medium: yourname
@@ -52,7 +52,7 @@ social-network-links:
 #  xing: yourname
 #  stackoverflow: "number/name"
 #  snapchat: name
-   instagram: akalakaco 
+instagram: akalakaco
 #  spotify: akalaka
 #  telephone:
 #  steam: name
