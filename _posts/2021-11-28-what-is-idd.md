@@ -2,8 +2,7 @@
 layout: post
 title: What is "I/DD?"
 subtitle: Written by AKALAKA member Mary Landis Gaston.
-cover-img: /assets/img/Cool%20Kids%20-%20Sitting%20(7).png
-thumbnail-img: /assets/img/Cool Kids - Sitting (7).png
+thumbnail-img: /assets/img/Cool Kids - Long Distance Relationship.png
 share-img: /assets/img/Cool Kids - Long Distance Relationship.png
 tags: [disability, lessons]
 ---
