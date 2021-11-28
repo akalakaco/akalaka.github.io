@@ -19,4 +19,4 @@ Many AKALAKA participants, who are all siblings of persons with I/DD, have voice
 
 What are your feelings on caregiving as a sibling? [Let us know.](https://us20.list-manage.com/survey?u=df5b2f10222fd12b13be0ec78&id=80a5fa0b7c&attribution=false)
 
-[![Join AKALAKA](https://github.com/akalakaco/akalakaco.github.io/blob/master/assets/img/Cool%20Kids%20-%20Sitting%20(7).png)](https://us20.list-manage.com/survey?u=df5b2f10222fd12b13be0ec78&id=80a5fa0b7c&attribution=false)
+[![Join AKALAKA](https://raw.githubusercontent.com/akalakaco/akalakaco.github.io/master/assets/img/Cool%20Kids%20-%20Sitting%20(7).png)](https://us20.list-manage.com/survey?u=df5b2f10222fd12b13be0ec78&id=80a5fa0b7c&attribution=false)
