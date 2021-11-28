@@ -2,8 +2,8 @@
 layout: post
 title: What is "I/DD?"
 subtitle: Written by AKALAKA member Mary Landis Gaston.
-thumbnail-img: /assets/img/Cool Kids - Long Distance Relationship.png
-share-img: /assets/img/Cool Kids - Long Distance Relationship.png
+thumbnail-img: /assets/img/Cool Kids - Sitting (7).png
+share-img: /assets/img/Cool Kids - Sitting (7).png
 tags: [disability, lessons]
 ---
 
@@ -19,4 +19,4 @@ Many AKALAKA participants, who are all siblings of persons with I/DD, have voice
 
 What are your feelings on caregiving as a sibling? [Let us know.](https://us20.list-manage.com/survey?u=df5b2f10222fd12b13be0ec78&id=80a5fa0b7c&attribution=false)
 
-[![Join AKALAKA](https://raw.githubusercontent.com/akalakaco/akalakaco.github.io/master/assets/img/Cool%20Kids%20-%20Long%20Distance%20Relationship.png)](https://us20.list-manage.com/survey?u=df5b2f10222fd12b13be0ec78&id=80a5fa0b7c&attribution=false)
+[![Join AKALAKA](https://github.com/akalakaco/akalakaco.github.io/blob/master/assets/img/Cool%20Kids%20-%20Sitting%20(7).png)](https://us20.list-manage.com/survey?u=df5b2f10222fd12b13be0ec78&id=80a5fa0b7c&attribution=false)
