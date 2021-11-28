@@ -1,16 +1,17 @@
 ---
 layout: page
-title: About
-subtitle: Why you'd want to go on a date with me
+title: AKALAKA
+subtitle: Handle life together.
 ---
+We believe in providing the best support to those who need and give the greatest care.
 
-My name is Inigo Montoya. I have the following qualities:
+Our vision is to enable access to timely, thoughtful, and delightful home and community-based services.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+AKALAKA is building innovative solutions that serve our disability and care communities, starting by providing adult siblings of individuals with intellectual and developmental disabilities with on-demand education and support.
 
-What else do you need?
+## \ ah-ka-la-ka \ 
+AKALAKA is an Igbo word that translates literally to mean 'handprint' and figuratively, to mean 'destiny.' As our handprints differ, our life journeys differ. With AKALAKA, we can realize our shared destiny and join hand in hand to confidently handle life together.
 
-### My story
+### Taking Care of Siblings
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Consider this space your source for support. Here, we share stories, lessons, and solutions. **[Subscribe](http://eepurl.com/hOzLdn)** to stay in touch and receive exclusive offers from AKALAKA.
