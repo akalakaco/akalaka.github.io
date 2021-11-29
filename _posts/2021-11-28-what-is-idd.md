@@ -37,6 +37,5 @@ Works Cited
 “Rosa’s Law.” *Federal Register*, National Archives, 11 July 2017, www.federalregister.gov/documents/2017/07/11/2017-14343/rosas-law.
 
 “The Developmental Disabilities Assistance and Bill of Rights Act of 2000.” *U.S. Department of Health and Human Services*, Administration for Community Living, modified 25 March 2021, www.acl.gov/about-acl/authorizing-statutes/developmental-disabilities-assistance-and-bill-rights-act-2000
+
 Zablotsky, Benjamin, et al. “Prevalence and Trends of Developmental Disabilities among Children in the US: 2009-2017.” *Pediatrics*, vol. 144, no. 4, 2019, doi:10.1542/peds.2019-0811.
-
-
