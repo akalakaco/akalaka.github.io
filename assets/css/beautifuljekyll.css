@@ -765,8 +765,9 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
 }
 
 .iframe-container {
+  width: 100%;
   overflow: hidden;
-  padding-top: 56.25%;
+  padding-top: 100%;
   position: relative;
 }
 
