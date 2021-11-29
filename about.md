@@ -14,4 +14,4 @@ AKALAKA is an Igbo word that translates literally to mean 'handprint' and figura
 
 ### Taking Care of Siblings
 
-Consider this space your source for support. Here, we share stories, lessons, and solutions. **[Subscribe](http://eepurl.com/hOzLdn)** to stay in touch and receive exclusive offers from AKALAKA.
+Consider this space your source for support. Here, we share stories, lessons, and solutions. **[Join us](https://akalakaco.github.io/join/)** to get connected to your community of support.
