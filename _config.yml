@@ -15,6 +15,7 @@ author: AKALAKA
 
 navbar-links:
   About: "about"
+  Join: "join"
   #Resources:
     #- Beautiful Jekyll: "https://beautifuljekyll.com"
     #- Learn markdown: "https://www.markdowntutorial.com/"
