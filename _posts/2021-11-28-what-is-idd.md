@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What is "I/DD?"
+title: What is "I/DD"?
 subtitle: by AKALAKA member Mary Landis Gaston
 thumbnail-img: /assets/img/Cool Kids - Sitting (7).png
 share-img: /assets/img/Cool Kids - Sitting (7).png
