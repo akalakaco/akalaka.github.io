@@ -26,6 +26,7 @@ title: AKALAKA FAQ
 [Special Needs Siblings](https://specialneedssiblings.com/)
 
 **Q: Where can I find specific foundations that provide support to children & families?**
+
 **A:** A list of fiscally supported groups can be found [here](https://fiscalsponsordirectory.org/?page_id=1440).
 
 **Q: Where can I find my state's I/DD agency address and phone number?**
