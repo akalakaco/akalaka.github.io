@@ -16,6 +16,9 @@ author: AKALAKA
 navbar-links:
   About: "about"
   Join: "join"
+  SignUp: "signup"
+  SignIn: "login"
+  Pricing: "pricing"
   #Resources:
     #- Beautiful Jekyll: "https://beautifuljekyll.com"
     #- Learn markdown: "https://www.markdowntutorial.com/"
