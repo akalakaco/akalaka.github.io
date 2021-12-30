@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Almost Heaven: Freedom Found in Country Roads
+title: Almost Heaven... Freedom Found in Country Roads
 subtitle: by AKALAKA member Diana Pastora Carson
 thumbnail-img: /assets/img/Cool Kids - In Good Company (1).png
 share-img: /assets/img/Cool Kids - In Good Company (1).png
