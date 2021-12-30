@@ -22,7 +22,7 @@ When Joaquin felt loved, appreciated, and free, he could relax. Everyone in the 
 
 At home, Mom mostly played flamenco records and Dad played oldies but goodies from the 1950’s. But in elementary school, one of my teachers played the guitar and taught our class to sing “Country Roads.” I learned the lyrics in one day. And for years, each night at bedtime, I sang Joaquin to sleep with that song.
 
-Fast forward to 17 years old, 6 feet tall, and 200 pounds of rage. Joaquin was forced by his “special” school to take psychotropic medications to control HIS behaviors He had severe allergic reactions to those medications, causing extreme aggression, and rendering him and our family hostage to a system not equipped for, nor interested in, humanely supporting behavioral crises. Joaquin was taken to a state institution 2 hours away from home, where human degradation was also the norm.
+Fast forward to 17 years old, 6 feet tall, and 200 pounds of rage. Joaquin was forced by his “special” school to take psychotropic medications to control HIS behaviors. He had severe allergic reactions to those medications, causing extreme aggression, and rendering him and our family hostage to a system not equipped for, nor interested in, humanely supporting behavioral crises. Joaquin was taken to a state institution 2 hours away from home, where human degradation was also the norm.
 
 Our family was devastated and in mourning over this great loss. However, every weekend, we took that 2-hour drive to the institution and back, to visit Joaquin, and take him out to be with nature. For 15 years, we did this.
 
