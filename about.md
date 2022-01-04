@@ -9,7 +9,7 @@ We believe in providing the best support to those who need and give the greatest
 
 Our vision is to enable access to timely, thoughtful, and delightful home and community-based services.
 
-AKALAKA is building innovative solutions that serve our disability and care communities, starting by providing sibling caregivers of individuals with intellectual and developmental disabilities with on-demand education and support to confidently handle life together.
+AKALAKA is building innovative solutions that serve our disability and care communities, starting by providing siblings who [have cared for, are caring for, or will] care for siblings with intellectual and developmental disabilities with on-demand education and support to confidently handle life together.
 
 ## \ ah-ka-la-ka \ 
 AKALAKA is an Igbo word that translates literally to mean 'handprint' and figuratively, to mean 'destiny.' As our handprints differ, our life journeys differ. With AKALAKA, we can realize our shared destiny and join hand in hand. Handle life together with AKALAKA.
