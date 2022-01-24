@@ -16,9 +16,9 @@ Although I/DD, as well as variations of this term, are now common in federal leg
 
 Many AKALAKA participants, adult siblings of persons with I/DD, have voiced their feelings of isolation on their journeys as siblings. We know what it feels like to be different from your peers and to struggle to manage care for yourself, your sibling(s), and even the rest of your family. Above all, we want you to know that you are not alone! About 17% of children aged 3 through 17 in the United States have intellectual or developmental disabilities, and 1 million of these children will become adults in the next decade (CDC). That’s a lot of potential siblings out there whom we hope will join the growing community of AKALAKA-- a community that is here to help you take care of yourselves, your siblings, and your communities.
 
-# What are your feelings on caregiving as a sibling? [Let us know.](https://akalakaco.github.io/join/)
+# What are your feelings on caregiving as a sibling? [Join us to connect.](/join)
 
-<a href = "https://akalakaco.github.io/join/"><img src="https://raw.githubusercontent.com/akalakaco/akalakaco.github.io/master/assets/img/Cool%20Kids%20-%20Sitting%20(7).png" alt="Peach Figure Sitting in Green and Pointing Up" width="400"/></a>
+<a href = "/join"><img src="https://raw.githubusercontent.com/akalakaco/akalakaco.github.io/master/assets/img/Cool%20Kids%20-%20Sitting%20(7).png" alt="Peach Figure Sitting in Green and Pointing Up" width="400"/></a>
 
 
 
