@@ -4,7 +4,7 @@ title: Who are sibling caregivers?
 subtitle: by AKALAKA member Mary Landis Gaston
 thumbnail-img: /assets/img/Cool Kids - Discussion (1).png
 share-img: /assets/img/Cool Kids - Discussion (1).png
-tags: [sibling caregiver, disability, lessons]
+tags: [siblings, caregiving, community, support, disability, lessons]
 ---
 Whether you have been part of AKALAKA from the beginning or this is your first time hearing about us, you may be asking, who exactly are sibling caregivers? Am I a sibling caregiver? We hope to elucidate on this question and expand on the roles of sibling caregivers. 
 
