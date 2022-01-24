@@ -24,7 +24,7 @@ Despite these challenges, many sibling caregivers experience positive benefits f
 
 As we can see, there is a spectrum of what caregiving means and how it affects us. Sibling caregivers are a diverse group of people with unique roles and challenges. Here at AKALAKA, we welcome anyone who is or has been a sibling to an individual with I/DD, no matter what part of the journey you are facing and no matter what role you fill. Through education, peer matching, online seminars and social gatherings, we aim to directly address the challenges that sibling caregivers face. 
 
-# If you have any thoughts that you would like to share about being a sibling caregiver, or if you are looking for support in your journey as a sibling, please reach out to us at __**hi@akalaka.org**__ and __**[join us.](/join)**__ We look forward to connecting with you!
+# If you have any thoughts that you would like to share about being a sibling caregiver, or if you are looking for support in your journey as a sibling, please reach out to us at __hi@akalaka.org__ and __[join us.](/join)__ We look forward to connecting with you!
 
 <a href = "/join"><img src="https://raw.githubusercontent.com/akalakaco/akalakaco.github.io/master/assets/img/Cool%20Kids%20-%20Discussion%20(1).png" alt="Two Siblings Connecting with Joy" width="400"/></a>
 
@@ -33,5 +33,3 @@ As we can see, there is a spectrum of what caregiving means and how it affects u
 Landman, Keren. “Growing Up Alongside a Sibling With a Disability,” _The New York Times_, 11 May 2020, https://www.nytimes.com/2020/05/11/parenting/children-sibling-disability.html. Accessed 22 January 2022. 
 
 Lee, Chung eun and Burke, Meghan. “Caregiving Roles of Siblings of Adults with Intellectual and Developmental Disabilities: A Systematic Review.” _Journal of Policy and Practice in Intellectual Disabilities_, vol. 15, no. 3, 2018, pp.237-246, doi.org/10.1111/jppi.12246.
-
-
