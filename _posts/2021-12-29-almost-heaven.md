@@ -26,7 +26,7 @@ Fast forward to 17 years old, 6 feet tall, and 200 pounds of rage. Joaquin was f
 
 Our family was devastated and in mourning over this great loss. However, every weekend, we took that 2-hour drive to the institution and back, to visit Joaquin, and take him out to be with nature. For 15 years, we did this.
 
-We promised Joaquin that we would take him home again. And this time, we would protect him. He would never again be subject to restrain, seclusion, and abuse. We could create a place where he belonged, build around his strengths, wans, and needs. And we know, it had to be ona  country road.
+We promised Joaquin that we would take him home again. And this time, we would protect him. He would never again be subject to restrain, seclusion, and abuse. We could create a place where he belonged, build around his strengths, wants, and needs. And we know, it had to be on a country road.
 
 After 3 years in court, we finally won our case. This year marks the 10 year anniversary of Joaquin living in his own home at the end of our beautiful and peaceful dirt road, where the breeze embraces his every whim, the sun warms his heart, and the birds greet him each morning. Almost heaven. 
 
