@@ -24,10 +24,10 @@ There have been 17 broad categories of services that HCBS has covered: case mana
 We know that all of this information can be complicated and confusing. We encourage you to search online for information about your state’s 1915(c) waiver. A good starting place is [Medicaid’s State Waivers List](https://www.medicaid.gov/medicaid/section-1115-demo/demonstration-and-waiver-list/index.html?f%5B0%5D=state_waiver_status_facet%3A1561&f%5B1%5D=state_waiver_status_facet%3A1591&f%5B2%5D=waiver_authority_facet%3A1571#content#content), which provides descriptions for each state’s waiver programs. 
 
 
-AKALAKA created a resource <a href="javascript:;" onclick="ml_webform_5185556('show')">here for you</a> to explore the various services your family may request for support. If you have questions about HCBS, please reach out to hi@akalaka.org or [sign up here](https://www.akalaka.org/join) for an AKALAKA membership.
-
-<a href = "https://akalakaco.github.io/join/"><img src="https://raw.githubusercontent.com/akalakaco/akalakaco.github.io/master/assets/img/Cool%20Kids%20-%20Sitting.png" alt="Brown Figure Sitting Holding Plants and Smiling" width="400"/></a>
-
+# AKALAKA created a resource <a href="javascript:;" onclick="ml_webform_5185556('show')">here for you</a> to explore the various services your family may request for support. If you have questions about HCBS, please reach out to hi@akalaka.org or [join our community of support and resources.](/join)
+<p align = center>
+<a href = "/join"><img src="https://raw.githubusercontent.com/akalakaco/akalakaco.github.io/master/assets/img/Cool%20Kids%20-%20Sitting.png" alt="Brown Figure Sitting Holding Plants and Smiling" width="400"/></a>
+</p>
 
 
 Duckett, Mary Jean and Mary R. Guy. “Home and Community-Based Services Waiver.” *Health Care Financing Review*, vol. 22, no. 1, 2000, pp. 123-125, https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4194688/. Accessed 12 December 2021. 
