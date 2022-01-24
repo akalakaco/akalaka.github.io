@@ -51,7 +51,7 @@ Take me home, country roads…”
 -- John Denver/Bill Danoff/Taffy Nivert Danoff, 1971 
 
 
-<a href="javascript:;" onclick="ml_webform_5218820('show')">Subscribe</a> for timely, thoughtful, and delightful stories from sibling caregivers and resources to support you. [Join our community of support to handle life together.](https://www.akalaka.org/join)
+# <a href="javascript:;" onclick="ml_webform_5218820('show')">Subscribe</a> for timely, thoughtful, and delightful stories from sibling caregivers and resources to support you. [Join our community of support to handle life together.](https://www.akalaka.org/join)
 
 <a href = "/join"><img src="https://raw.githubusercontent.com/akalakaco/akalakaco.github.io/master/assets/img/Cool%20Kids%20-%20In%20Good%20Company%20(1).png" width="400"/></a>
 
