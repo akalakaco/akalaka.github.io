@@ -52,8 +52,8 @@ Take me home, country roads…”
 
 
 # <a href="javascript:;" onclick="ml_webform_5218820('show')">Subscribe</a> for timely, thoughtful, and delightful stories from sibling caregivers and resources to support you. [Join our community of support to handle life together.](/join)
-
+<p align = center>
 <a href = "/join"><img src="https://raw.githubusercontent.com/akalakaco/akalakaco.github.io/master/assets/img/Cool%20Kids%20-%20In%20Good%20Company%20(1).png" width="400"/></a>
-
+</p>
 
 ***Author Bio*: Diana Pastora Carson, M.Ed. has been an educator for over 30 years, teaching both at the elementary school level and the university level. She is a consultant and trainer on diversity as it relates to disability and is the author of several articles and books including *Beyond Awareness: Bringing Disability into Diversity Work in K-12 Schools & Communities*, as well as her children’s book, *Ed Roberts: Champion of Disability Rights*. She has compiled her disability awareness teachings in a digital course entitled "Beyond Awareness: Disability Awareness That Matters." Although Diana experiences disability herself, she credits her brother, Joaquin Carson, for her passion for inclusion, disability advocacy, and activism. Joaquin endured years of segregated schooling and subsequent institutionalization. Diana takes the most pride in knowing that after many years of fighting for his release, Joaquin now lives a life of inclusion and quality, in the community, as her next door neighbor.**
