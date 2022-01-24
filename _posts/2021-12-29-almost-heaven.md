@@ -4,7 +4,7 @@ title: Almost Heaven... Freedom Found in Country Roads
 subtitle: by AKALAKA member Diana Pastora Carson
 thumbnail-img: /assets/img/Cool Kids - In Good Company (1).png
 share-img: /assets/img/Cool Kids - In Good Company (1).png
-tags: [caregiving, sibling, stories, community, support]
+tags: [caregiving, siblings, stories, community, support]
 ---
 John Denver’s “Country Roads” may hold deep meaning for many people, but for my brother and me, it symbolizes childhood bond, the comforts of nature, a triumphant exodus from institutionalization, and return to home and family.
 
