@@ -17,7 +17,7 @@ Although the AKALAKA cohort meetings have been online, the sense of genuine supp
 
 I am deeply grateful that AKALAKA is available for siblings to not only learn about the complexities of disability services but also to connect with one another in real ways. Because of AKALAKA and the people who are a part of it, that void I have felt for so long is slowly disappearing. I am no longer alone.
 
-# Have you sought community on your journey as a sibling caregiver? [Let us know.](https://akalakaco.github.io/join/)
+# <a href="javascript:;" onclick="ml_webform_5218820('show')">Subscribe</a> for timely, thoughtful, and delightful stories from sibling caregivers and resources to support you. [Join our community of support to handle life together.](/join)
 <p align = center>
 <a href = "https://akalakaco.github.io/join/"><img src="https://raw.githubusercontent.com/akalakaco/akalakaco.github.io/master/assets/img/Cool%20Kids%20-%20Long%20Distance%20Relationship.png" alt="Two Friends Texting Each Other" width="400"/></a>
 </p>
