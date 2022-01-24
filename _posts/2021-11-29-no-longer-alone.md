@@ -19,7 +19,7 @@ I am deeply grateful that AKALAKA is available for siblings to not only learn ab
 
 # <a href="javascript:;" onclick="ml_webform_5218820('show')">Subscribe</a> for timely, thoughtful, and delightful stories from sibling caregivers and resources to support you. [Join our community of support to handle life together.](/join)
 <p align = center>
-<a href = "https://akalakaco.github.io/join/"><img src="https://raw.githubusercontent.com/akalakaco/akalakaco.github.io/master/assets/img/Cool%20Kids%20-%20Long%20Distance%20Relationship.png" alt="Two Friends Texting Each Other" width="400"/></a>
+<a href = "/join"><img src="https://raw.githubusercontent.com/akalakaco/akalakaco.github.io/master/assets/img/Cool%20Kids%20-%20Long%20Distance%20Relationship.png" alt="Two Friends Texting Each Other" width="400"/></a>
 </p>
 
 ***Author Bio*: Mary Landis Gaston is an older sibling to her 13-year-old brother, James, who was born with significant intellectual and developmental disabilities. She currently lives in Chapel Hill, North Carolina, and is applying to medical schools to pursue academic medicine and become a pediatric specialist.**
