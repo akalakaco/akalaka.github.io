@@ -9,7 +9,16 @@ tags: [siblings, caregiving, community, support, disability, lessons]
 Whether you have been part of AKALAKA from the beginning or this is your first time hearing about us, you may be asking, who exactly are sibling caregivers? Am I a sibling caregiver? We hope to elucidate on this question and expand on the roles of sibling caregivers. 
 
 {: .box-note}
-**Key Takeaways:** There is no single definition or term to describe the diverse ways in which we care for our siblings with I/DD. Being a sibling caregiver comes with challenges–financial, emotional, mental, and physical ones included–as well as joys, such as developing resilience and empathy. We welcome all siblings, regardless of what part of the caregiving journey you are on!
+**Key Takeaways:** 
+
+{: .box-note}
+There is no single definition or term to describe the diverse ways in which we care for our siblings with I/DD. 
+
+{: .box-note}
+Being a sibling caregiver comes with challenges–financial, emotional, mental, and physical ones included–as well as joys, such as developing resilience and empathy. 
+
+{: .box-note}
+We welcome all siblings, regardless of what part of the caregiving journey you are on!
 
 The definition of a sibling caregiver is difficult to identify as its boundaries are fluid. Some in our community care for their siblings with [intellectual and developmental disabilities (I/DD)](/2021-11-28-what-is-idd) on a daily basis. Depending on their sibling’s goals and support needs, the caregiver may help with [home & community-based services](/2021-12-20-navigating-hcbs) including bathing, dressing, eating, and transport, as well as provide a supportive environment. Other caregivers may rarely see their siblings with I/DD but do “share the load.” They actively participate in medical decision-making, emotional support, or other caregiving tasks. Sociology, psychology, and disability research reflect this lack of clear definition. In a review of 29 studies about sibling caregivers, sociologist Meghan Burke found that most studies did not even define caregiving. The ones that did define it gave a variety of definitions. For example, tasks such as guardianship, residential arrangement, and companionship were considered part of the sibling caregiver role. In one study, co-residence helped to define sibling caregiving (Lee and Burke). We are a diverse group, so using one definition to identify sibling caregivers is nearly impossible.      
 
