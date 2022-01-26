@@ -9,7 +9,7 @@ tags: [siblings, caregiving, community, support, disability, lessons]
 Whether you have been part of AKALAKA from the beginning or this is your first time hearing about us, you may be asking, who exactly are sibling caregivers? Am I a sibling caregiver? We hope to elucidate on this question and expand on the roles of sibling caregivers. 
 
 ---
-> #### _Key Takeaways_:
+> #### Key Takeaways:
 > - There is no single definition or term to describe the diverse ways in which we care for our siblings with I/DD. 
 > - Being a sibling caregiver comes with challenges–financial, emotional, mental, and physical ones included–as well as joys, such as developing resilience and empathy.
 > - We welcome all siblings, regardless of what part of the caregiving journey you are on!
