@@ -6,19 +6,24 @@
 # --- Required options --- #
 
 # Name of website
+<<<<<<< HEAD
 title: Akalaka
+=======
+title: "Taking Care of Siblings | AKALAKA - Handle life together."
+>>>>>>> b5358b3b69490e4c770ac876a3e421a76e272081
 
 # Your name to show in the footer
-author: Some Person
+author: AKALAKA
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  About: "about"
+  Join: "join"
+  #Resources:
+    #- Beautiful Jekyll: "https://beautifuljekyll.com"
+    #- Learn markdown: "https://www.markdowntutorial.com/"
+  #Author's home: "https://deanattali.com"
 
 # --- Logo --- #
 
@@ -31,7 +36,7 @@ round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-#title-img: /path/to/image
+title-img: "/assets/img/AKALAKA_handlelifetogether.png"
 
 
 # --- Footer social media links --- #
@@ -39,23 +44,23 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
+  email: "hi@akalaka.org"
+  rss: true
+  #facebook: name
+  #github: name
+  twitter: AKALAKAorg
+  instagram: AKALAKAorg
+  linkedin: AKALAKA
+  #patreon: name
+  #youtube: name
 #  medium: yourname
 #  reddit: yourname
-#  linkedin: daattali
 #  xing: yourname
-#  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
-#  instagram: deanat78
-#  spotify: yourname
-#  telephone: +14159998888
-#  steam: deanat78
+#  stackoverflow: "number/name"
+#  snapchat: name
+#  spotify: akalaka
+#  telephone:
+#  steam: name
 #  twitch: yourname
 #  yelp: yourname
 #  telegram: yourname
@@ -67,7 +72,7 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is a virtual proof that I'm awesome
+rss-description: AKALAKA provides adult siblings of individuals with intellectual & developmental disabilities with on-demand education and support. Our vision is to become the first and best place you go to for timely, thoughtful, and delightful experiences with home and community-based services. Join AKALAKA and handle life together.
 
 # --- General options --- #
 
@@ -80,7 +85,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "Taking Care of Siblings"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
@@ -89,29 +94,29 @@ excerpt_length: 50
 feed_show_excerpt: true
 
 # Whether or not to show a list of tags below each post preview in the feed page
-feed_show_tags: true
+feed_show_tags: false
 
 # Add a search button to the navbar
-post_search: true
+post_search: false
 
 # The keywords to associate with your website, for SEO purposes
-#keywords: "my,list,of,keywords"
+keywords: "adult siblings of individuals with intellectual and developmental disabilities, AKALAKA, home and community-based services, family caregiving, long-term support"
 
 # --- Colours / background image --- #
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#EAEAEA"
-navbar-text-col: "#404040"
-navbar-border-col: "#DDDDDD"
-page-col: "#FFFFFF"
-text-col: "#404040"
-link-col: "#008AFF"
-hover-col: "#0085A1"
-footer-col: "#EAEAEA"
-footer-text-col: "#777777"
-footer-link-col: "#404040"
-footer-hover-col: "#0085A1"
+navbar-col: "#fcbba0"
+navbar-text-col: "#f58907"
+navbar-border-col: "#eeeeee"
+page-col: "#eeeeee"
+text-col: "#000000"
+link-col: "#348c00"
+hover-col: "#348c00"
+footer-col: "#fcbba0"
+footer-text-col: "#f58907"
+footer-link-col: "#348c00"
+footer-hover-col: "#348c00"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
@@ -134,7 +139,7 @@ footer-hover-col: "#0085A1"
 # --- Web Analytics Section --- #
 
 # Fill in your Google Analytics gtag.js ID to track your website using gtag
-#gtag: ""
+gtag: "G-Y2DFKPBZ23"
 
 # Fill in your Google Analytics ID to track your website using Google Analytics
 #google_analytics: ""
@@ -229,7 +234,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      comments: true  # add comments to all blog posts
+      comments: false  # add comments to all blog posts
       social-share: true # add social media sharing buttons to all blog posts
   -
     scope:
@@ -251,7 +256,5 @@ exclude:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
-
-# Beautiful Jekyll / Dean Attali
-# 2fc73a3a967e97599c9763d05e564189
+  - jekyll-seo-tag
 
