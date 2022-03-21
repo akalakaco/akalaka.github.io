@@ -49,16 +49,16 @@ To start implementing a person-centered approach into your care plan, you can be
 
 Once you’re ready to bring a Person-Centered approach into your or your loved one’s care plan, LifeCourseOnline is here to help. We believe this life-changing method should be available to anyone receiving or providing care, no matter where you are located or whether your local service providers have embraced person-centered practices. As a self-guided online platform and program, LifeCourseOnline allows you to create a personalized plan and implement  person-centered thinking across your support network.
 
-Visit www.lifecourseonline.com to sign up or learn more.
+Visit [www.lifecourseonline.com](https://www.lifecourseonline.com/) to sign up or learn more.
 
 ___
-1. Person-centred care made simple, The Health Foundation. January 2016.
-2. HM Government, Valuing People Now. 2001-2009. www.valuingpeoplenow.dh.gov.uk
-3. Helen Bown, Gill Bailey, and Helen Sanderson, Person-Centred Thinking with Older People. 2015.
-4. The emergence of person-centered Planning as evidence based practice. 2006. Helen Sanderson, Jeanette Thompson, Jackie Kilbane
+<sub>1. Person-centred care made simple, The Health Foundation. January 2016.</sub>
+<sub>2. HM Government, Valuing People Now. 2001-2009. www.valuingpeoplenow.dh.gov.uk</sub>
+<sub>3. Helen Bown, Gill Bailey, and Helen Sanderson, Person-Centred Thinking with Older People. 2015.</sub>
+<sub>4. The emergence of person-centered Planning as evidence based practice. 2006. Helen Sanderson, Jeanette Thompson, Jackie Kilbane</sub>
 
 
-# Are you a sibling care partner on a lifelong journey with intellectual and developmental disabilities? [Connect with your network at AKALAKA.org for timely, thoughtful, and delightful support and resources to confidently handle life together.](/join)
+# Are you a sibling care partner on a lifelong journey with intellectual and developmental disabilities? [Connect with the network of support and resources for you to confidently handle life together at AKALAKA.org](/join)
 <p align = center>
-<a href = "/join"><img src="/assets/img/Cool Kids - Discussion (2).png" width="400"/></a>
+<a href = "/join"><img src="/assets/img/Cool%20Kids%20-%20Discussion%20(2).png" width="400"/></a>
 </p>
