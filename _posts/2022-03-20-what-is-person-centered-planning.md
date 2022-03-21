@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What is “Person-Centered Planning”?
+title: What is Person-Centered Planning?
 subtitle: by AKALAKA partner LifeCourseOnline
 thumbnail-img: /assets/img/Cool Kids - Discussion (2).png
 share-img: /assets/img/Cool Kids - Discussion (2).png
@@ -8,7 +8,7 @@ tags: [planning, lessons, resources, support]
 ---
 [LifeCourseOnline](https://www.lifecourseonline.com/) was designed to make **Person-Centered Planning** accessible for everyone. But what is Person-Centered Planning exactly? And how do you get started?
 
-### What is Person-Centered Planning?
+### What is "Person-Centered Planning"?
 
 While balancing every appointment, service, and support that goes into managing care, we sometimes forget that care is about more than meeting health needs. Person-centered planning aims to approach care in a holistic way that increases an individual’s quality of life by their own definition. A person-centered approach means focusing on the elements of care, support, and treatment that matter most to the individual at the center of that plan. It rethinks the relationship between people and services to ensure that those receiving care have a real voice in the creation and ongoing management of their own care plan (1, 2).
 
