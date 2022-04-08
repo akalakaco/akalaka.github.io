@@ -25,8 +25,13 @@ Reflection is vital it seems for anyone, for sibs. You can’t go farther unless
 <a href = "/join"><img src="/assets/img/Cool%20Kids%20-%20Long%20Distance%20Relationship%20(1).png" width="400"/></a>
 </p>
 ___
+
 AKALAKA welcomes all siblings to join us on <b>Saturday, April 16, 2022 at 8:00pm ET / 5:00pm PT</b> for our Social co-hosted with Diana Pastora Carson, M.Ed.: 
 ### A Journey of a Thousand Miles... Creative Storytelling for Siblings. 
 This is a fun night for individuals with intellectual and developmental disabilities and/or their sibling(s) to connect with other sibs and take a step toward expressing our stories within a supportive community. Plus: one participant will be selected to win a FREE signed copy of <u>Ed Roberts: Champion of Disability Rights</u>, a book written by Carson, a sibling, inclusionist, speaker, educator, writer, and founder of Beyond Awareness.
 
 <a href = "/join">Click here to join, get your ticket to the event and all our other member benefits.</a>
+
+<p align = center>
+<a href = "/join"><img src="/assets/img/AKALAKA.org_A_Journey_of_a_Thousand Miles.png" width="400"/></a>
+</p>
