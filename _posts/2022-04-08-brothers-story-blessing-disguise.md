@@ -6,7 +6,7 @@ thumbnail-img: /assets/img/Cool Kids - Long Distance Relationship (1).png
 share-img: /assets/img/Cool Kids - Long Distance Relationship (1).png
 tags: [caregiving, siblings, stories, community, support]
 ---
-First, I want to start off by simply not telling my story. I'm a sib, but then again I'm not defined as <u>just a sib</u>. I've lived my life, have failed, have triumphed, and have failed again. I owe my strength and my personality to what I've learned from my brothers and the character I’ve built.
+First, I want to start off by simply not telling my story. I'm a sib, but then again I'm not defined as <i>just a sib</i>. I've lived my life, have failed, have triumphed, and have failed again. I owe my strength and my personality to what I've learned from my brothers and the character I’ve built.
 
 Autism was funny when I learned about it when I was young. Being 1st gen in America and AAPI [Asian Americans and Pacific Islanders], the culture was still relatively unfamiliar with intellectual and developmental disabilities, and how to nurture it. So are my brothers forever slow or is this just a phase? I was lost in the sense of what my brothers were. I couldn't decipher whether it was them being sick or something. 
 
@@ -24,8 +24,9 @@ Reflection is vital it seems for anyone, for sibs. You can’t go farther unless
 <p align = center>
 <a href = "/join"><img src="/assets/img/Cool%20Kids%20-%20Long%20Distance%20Relationship%20(1).png" width="400"/></a>
 </p>
-
+___
 AKALAKA welcomes all siblings to join us on <b>Saturday, April 16, 2022 at 8:00pm ET / 5:00pm PT</b> for our Social co-hosted with Diana Pastora Carson, M.Ed.: 
 ### A Journey of a Thousand Miles... Creative Storytelling for Siblings. 
 This is a fun night for individuals with intellectual and developmental disabilities and/or their sibling(s) to connect with other sibs and take a step toward expressing our stories within a supportive community. Plus: one participant will be selected to win a FREE signed copy of <u>Ed Roberts: Champion of Disability Rights</u>, a book written by Carson, a sibling, inclusionist, speaker, educator, writer, and founder of Beyond Awareness.
+
 <a href = "/join">Click here to join, get your ticket to the event and all our other member benefits.</a>
