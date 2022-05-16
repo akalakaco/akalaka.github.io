@@ -72,7 +72,7 @@ This is an informative conversation  about Mental Health Support for Adult Sibli
 </p>
 
 ---
-Unable to join but want to stay in touch and receive on-demand productions of this and all other seminars for your self-paced replays?
+Unable to join but want to stay in touch and receive on-demand episodes of this and our other seminars for your own self-paced replays?
 
 # [Connect with the network of support and resources for you to confidently handle life together at AKALAKA.org](/join)
 <p align = center>
