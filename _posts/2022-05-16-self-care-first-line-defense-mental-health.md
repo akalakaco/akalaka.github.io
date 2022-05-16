@@ -58,8 +58,8 @@ No one, with or without disabilities and caregiving responsibilities, should do 
 At AKALAKA, we’re working to enable greater access to home & community care, starting by assisting members who have a Medicaid Home & Community-Based Services (HCBS) waiver – for example, the “Innovations Waiver” in North Carolina – with navigating and receiving local and virtual long-term support to increase the independence and reduce the workload of individuals and families. Join us to get the resources and support you need today: [AKALAKA.org/join](/join) 
 
 AKALAKA is also working to connect members to professional specialists, starting in regions where members make requests. [Join us for assistance with discovering and paying for these specialists.](/join) 
-___
 
+---
 AKALAKA welcomes all siblings to join us on <b>Saturday, May 21, 2022 at 6:00pm ET / 3:00pm PT</b> for our Seminar with Adam Snir, AMFT, MS, MA, a sibling and therapist: 
 ### Mind Over Matter: Professional Mental Health Support for Adult Siblings 
 This is an informative conversation  about Mental Health Support for Adult Siblings, why it’s important for us to have professionals like Adam, but also why it’s important that we also maintain personal relationships like we’re building in AKALAKA for the lifelong journey. PLUS: Eligible siblings get special discounts on 1:1 and group sessions with Adam! 
@@ -70,6 +70,7 @@ This is an informative conversation  about Mental Health Support for Adult Sibli
 <a href = "/join"><img src="/assets/img/Mind_Over_Matter_Seminar_on_Professional_Mental_Health_Support_for_Adult_Siblings_by_AKALAKA+Adam_Snir.png" width="400"/></a>
 </p>
 
+---
 Unable to join but want to stay in touch and receive on-demand productions of this and all other seminars for your self-paced replays?
 
 # [Connect with the network of support and resources for you to confidently handle life together at AKALAKA.org](/join)
