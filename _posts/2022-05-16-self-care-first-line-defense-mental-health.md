@@ -33,18 +33,19 @@ Self-care can be defined as “the ability to care for oneself through awareness
 - *Self-reliance* is the ability to make our own decisions, to depend on ourselves. An example is, choosing to start a healthy habit and adhering to the plan.
 
 How can we practice self-care?
-**Exercise**
+
+**Exercise.**
 According to Dr. Mike Evans MD, exercise is the “single best thing we can do our health.” Evans summarizes foundational research in this [video](https://www.youtube.com/watch?v=aUaInS6HIGo&t=488s&ab_channel=DocMikeEvans) to highlight what 30 minutes of walking or aerobic exercise can do for you, all through white board animations.
 
 The recommended minimum amount of physical activity is 150 minutes/week of moderate intensity exercise. Moderate intensity means that while you are active, you have enough breath to say a short sentence, but not enough to sing.
 
-**Nutrition**
+**Nutrition.**
 Today’s food guide uses a healthy plate method - a visual representation of food proportions. One half of the plate is fruits and vegetables of many colours (think of the rainbow). One quarter is protein foods. The remaining quarter is whole grain foods.
 
-**Sleep**
+**Sleep.**
 Sleep hygiene can aid in a good night’s rest. The key is to build a routine before bedtime. Activities should include removing electronic devices from the bedroom or keeping them away from arm’s length, avoiding large meals / caffeine / alcohol, and making sure the bedroom is dark / quiet / relaxing. Going to bed at the same time every night and getting up at the same time every morning helps with consistency, which programs into the bedtime routine.
 
-**Therapy**
+**Therapy.**
 Yoga, mindfulness, meditation and journaling can be used to alleviate care partner stress. Professional counselling and therapy can help build adequate skills.
 
 Cognitive behaviour therapy provides the skills for clients to challenge their negative thoughts and maladaptive behaviours. The goal is to develop a balanced perspective on the events that occur around us.
