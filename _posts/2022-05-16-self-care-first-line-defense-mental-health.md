@@ -59,6 +59,7 @@ At AKALAKA, we’re working to enable greater access to home & community care, s
 
 AKALAKA is also working to connect members to professional specialists, starting in regions where members make requests. [Join us for assistance with discovering and paying for these specialists.](/join) 
 ___
+
 AKALAKA welcomes all siblings to join us on <b>Saturday, May 21, 2022 at 6:00pm ET / 3:00pm PT</b> for our Seminar with Adam Snir, AMFT, MS, MA, a sibling and therapist: 
 ### Mind Over Matter: Professional Mental Health Support for Adult Siblings 
 This is an informative conversation  about Mental Health Support for Adult Siblings, why it’s important for us to have professionals like Adam, but also why it’s important that we also maintain personal relationships like we’re building in AKALAKA for the lifelong journey. PLUS: Eligible siblings get special discounts on 1:1 and group sessions with Adam! 
