@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Self-Care... First Line of Defense for Mental Health
-subtitle: by AKALAKA crew
+subtitle: by AKALAKA crew member Theebhana
 thumbnail-img: /assets/img/Cool Kids - Bust (5).png
 share-img: /assets/img/Cool Kids - Bust (5).png
 tags: [resources, lessons, care, siblings, stories, community, support]
