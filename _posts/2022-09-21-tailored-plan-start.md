@@ -1,6 +1,6 @@
 ---
 layout: post
-title: North Carolina Tailored Plans: Get Started with 3 Steps
+title: North Carolina Tailored Plans... Get Started with 3 Steps
 subtitle: by AKALAKA
 thumbnail-img: /assets/img/Cool Kids - Avatar (4).png
 share-img: /assets/img/Cool Kids - Avatar (4).png
