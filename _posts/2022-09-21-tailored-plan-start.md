@@ -58,3 +58,8 @@ Ask your Tailored Plan office to:
 - Document your preferred primary care physician (PCP) in your Tailored Care file starting December 1, 2022
 - Provide you with a list of care management agency (CMA) options
 
+**3) Expect delays**
+  
+In the world of care, we hope for the best but prepare for the worst! Each Tailored Plan has a different pace in building their PCP and CMA provider network, so they may not have either available for you yet. If your PCP is not already in their database, ask them for specific instructions that you can provide to your PCP’s office to ensure they become in-network. And ask your Tailored Plan for the date you can call back to get a list of CMA options. You may decide to maintain care management with the LME MCO if that is your only/best option, but it can be empowering to know your options. NC DHHS’ current deadline for members to choose their PCP and CMA is **October 14, 2022**, so stay tuned for more from AKALAKA to feel less lost and alone in navigating this wilderness of disability services.
+
+**Join our interest list for our upcoming AKALAKA Innovations & TBI Waiver 101 classes where we’ll learn how to better navigate this wilderness with peers who can relate.**
