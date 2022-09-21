@@ -7,14 +7,15 @@ share-img: /assets/img/Cool Kids - Avatar (4).png
 tags: [North Carolina, resources, lessons, care, support]
 ---
 Are you or your sibling living in North Carolina with: 
-- the Innovations Waiver for adults with intellectual/developmental disabilities (I/DD) or 
-- the TBI Waiver for adults with traumatic brain injury (TBI)?
+- the *Innovations Waiver* for adults with intellectual/developmental disabilities (I/DD) or 
+- the *TBI Waiver* for adults with traumatic brain injury (TBI)?
 
 Then, you’re likely to be a part of the upcoming Medicaid Transformation into the “Tailored Plans,” which are set to launch in December 2022.
 
 ---
 AKALAKA is here to help you, the best we can, to feel less lost and less alone in navigating this wilderness of disability services. This article is the first in AKALAKA’s series on the “Behavioral Health I/DD Tailored Plan” for our North Carolina members.
 ---
+
 Use this article to figure out **1) where to start**, **2) who to connect with**, **3) what to expect next**.
 
 Note: As much as we’d love for this process to be accessible completely over the Internet, you or your sibling may need to make some phone calls. Each new agent you connect with may ask you for the same information, so be prepared to share the member’s: social security number, date of birth, residential address, Medicaid recipient identification number, call-back phone number, primary care physician’s practice name and address. Of course, be cautious if someone calls you out-of-the-blue and requests this private information. Unless you specifically requested a call-back, consider asking the caller for a reference ID, hanging up, and calling the phone number you obtain on your own from the official agency site to be safe.
