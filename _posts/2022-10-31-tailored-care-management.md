@@ -35,7 +35,7 @@ You should have a choice in all of this, according the NC DHHS, and you may choo
 
 <iframe class="airtable-embed" src="https://airtable.com/embed/shrW6X2iBwepBvt4I?backgroundColor=orange&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
-As a reminder, you'll need to confirm that the CMA is enrolled in your Tailored Plan. [Here is the AKALAKA article with more information.](/2022-09-21-tailored-plan-start/)
+As a reminder, you'll need to confirm that the CMA/AMH+ you want is enrolled in your Tailored Plan. And, you can also choose your Tailored Plan to serve as your care management provider! [Here is the AKALAKA article with more information about Tailored Plans.](/2022-09-21-tailored-plan-start/)
 
 **3) Expect mix ups**
   
