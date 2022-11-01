@@ -1,6 +1,6 @@
 ---
 layout: post
-title: North Carolina Tailored Plans... 74 Options for Care Management
+title: North Carolina Tailored Plans... Options for Care Management
 subtitle: by AKALAKA
 thumbnail-img: /assets/img/Cool Kids - Brainstorming (3).png
 share-img: /assets/img/Cool Kids - Brainstorming (3).png
